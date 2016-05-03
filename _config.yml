@@ -1,0 +1,14 @@
+layout_spectrum: 0.8369176
+typography_spectrum: 0.6366824
+color:
+  saturation: 0.3390017
+  brandStrength: 0.6559139
+  lightness: 0.8815949
+  rhythmicContrast: 0.6841757
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Mobiletest
